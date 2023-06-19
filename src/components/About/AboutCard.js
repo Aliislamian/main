@@ -32,7 +32,7 @@ I'm particularly skilled with React.js, a potent JavaScript toolkit for creating
           <p style={{ color: "rgb(155 126 172)" }}>
             "Strive to build things that make a difference!"{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Ali Akbar</footer>
         </blockquote>
       </Card.Body>
     </Card>
